@@ -1,0 +1,43 @@
+.navbar-brand{
+    font-family: 'Lobster', cursive !important;
+    font-size: 30px;
+}
+.texto-nav{
+    display: inline-block;
+}
+.fa-instagram{
+    font-size: 30px;
+}
+img{
+    border: 3px solid white;
+}
+.sticky-top{
+    padding-top: 90px;
+    text-align: center;
+    display: block;
+}
+.fa-grip-horizontal,.fa-square{
+    font-size: 20px;
+    color:rgb(93, 91, 91);
+}
+.fa-square:hover{
+    font-size: 30px;
+    color:rgb(107, 104, 104);
+    
+}
+.fa-grip-horizontal:hover{
+    font-size: 30px;
+    color:rgb(107, 104, 104);
+}
+.body2{
+    background-color: rgb(228, 227, 227);
+}
+
+.bloque-texto{
+    justify-content: space-between;
+}
+.comentarios{
+    display: flex;
+    justify-content: space-between;
+    
+}
